@@ -249,3 +249,16 @@ a {
     text-decoration: none;
     color: var(--main-white);
 }
+
+footer {
+    font-weight: 300;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    background: var(--main-gray);
+    border-top: 4px solid var(--main-red);
+}
+
+footer > p {
+    margin: 2rem;
+}
