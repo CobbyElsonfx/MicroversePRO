@@ -1,6 +1,6 @@
 # Sample Website Built with HTML, CSS, and JavaScript
 
-This website is a collaborative project built by [Your Name] and [Your Friend's Name] during the Microverse application process. The project required us to build a sample website using HTML, CSS, and JavaScript based on the design provided by Free Code Camp.
+This website is a collaborative project built by Andoh Francis and Seidi during the Microverse application process. The project required us to build a sample website using HTML, CSS, and JavaScript based on the design provided by Free Code Camp.
 Project Requirements
 
 The project required us to meet the following requirements:
